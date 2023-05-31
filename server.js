@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const port = 3000; // Ganti dengan port yang Anda inginkan
+const port = 3001; // Ganti dengan port yang Anda inginkan
 const bodyParser = require('body-parser');
 
 // Menggunakan middleware bodyParser
